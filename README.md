@@ -1,12 +1,10 @@
 # hello-world
 This is my first GitHub repository.
-## creates a <h2> header 
-
-### will create a <h3> header
-There are up to 6 size headers. Below is <h6> or the smallest header.
-
-###### This is the smallest header.
-
+## This is a H2 header.
+### This is a H3 header.
+  There are a total of 6 header sizes.
+  ###### This is a H6 header and is the smallest header you can achieve. By putting the number of hashtags, you can create the ideal header size for your project.
+# What is this about?
 This page is an information page about what this repository is about. A repository is also known as a project file. This repo will be a little tester project, testing codes from Javascript to C# to CSS and HTML. 
 The file will be listed here as:
   1. index.html -  the html file
